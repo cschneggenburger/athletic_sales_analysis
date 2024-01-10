@@ -6,3 +6,4 @@ Description:
 
 Files:
     Starter Code was given to student through the course.
+    athletic_sales_analysis_starter_code.ipynb is the jupyter notebook that holds all of the data analysis. 
